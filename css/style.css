@@ -10,11 +10,12 @@ body {
 header {
     background-color: #4da1ff;
     background-image: url('../img/pattern.png');
+    background-size: 20em;
 }
 
 #logo {
     width: 200px;
-    height: 200px;
+    padding-top: 30px;
 }
 
 h1 {
