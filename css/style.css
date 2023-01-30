@@ -1,0 +1,13 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: #4da1ff;
+    background-image: url('../img/pattern.png');
+}
+
+#logo {
+    width: 200px;
+    height: 200px;
+}
