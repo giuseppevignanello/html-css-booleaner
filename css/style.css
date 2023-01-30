@@ -2,11 +2,6 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
-#container {
-    width: 50%;
-    margin: auto;
-}
-
 header {
     background-color: #4da1ff;
     background-image: url('../img/pattern.png');
