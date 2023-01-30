@@ -33,3 +33,24 @@ a {
 #photo-credits {
     font-size: small;
 }
+
+.highlighted {
+    background-color: #ffff00;
+}
+
+thead {
+    background-color: #1aaae6;
+    color: white;
+}
+
+.small-column {
+    width: 24%;
+}
+
+.large-column {
+    width: 48%;
+}
+
+.colored-row {
+    background-color: #b2e6f2;
+}
