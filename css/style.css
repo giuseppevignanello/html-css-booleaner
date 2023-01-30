@@ -14,7 +14,7 @@ header {
 }
 
 h1 {
-    font-size: 50px;
+  
 }
 
 a {
@@ -24,4 +24,12 @@ a {
 
 .grey-text {
     color: #878787;
+}
+
+.tim-image{
+    width: 48%;
+}
+
+#photo-credits {
+    font-size: small;
 }
