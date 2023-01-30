@@ -13,10 +13,6 @@ header {
     padding-top: 30px;
 }
 
-h1 {
-  
-}
-
 a {
     text-decoration: none;
     color: #4abbeb;
@@ -24,10 +20,6 @@ a {
 
 .grey-text {
     color: #878787;
-}
-
-.tim-image{
-    width: 48%;
 }
 
 #photo-credits {
